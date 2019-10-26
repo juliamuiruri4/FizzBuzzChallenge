@@ -1,0 +1,6 @@
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\New Drive E\STUDY MATERIALS & CODE\C# PROGRAMMING\PROJECTS\FizzBuzz Challenge\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
